@@ -1,6 +1,6 @@
 export const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um cara que consegue queimar todas as roscas que uma pessoa pode ter, ele se oferece para queimar a sua qual seria sua reação",
+        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um cara que consegue queimar todas as roscas que uma pessoa pode ter, ele se oferece para queimar a sua qual seria sua reação?",
         alternativas: [
             {
                 texto: "Isso é assustador!",
@@ -19,5 +19,5 @@ export const perguntas = [
                 proxima: 2,
             },
         ]
-    },
-    
+    }
+]
